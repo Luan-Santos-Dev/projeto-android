@@ -40,7 +40,7 @@ header{
 
 }
 
-header > h1{
+#titulo-inicial{
     color: #FFF; 
     font-weight: normal;
     font-family: var(--fonte-destaque);
